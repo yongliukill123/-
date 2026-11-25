@@ -1,11 +1,5 @@
 # OS 功能挑战赛道 proj31 赛题项目简介
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=你好！欢迎来到我们的项目！;这是合肥工业大学全都做得队的OS赛题提交！" alt="Typing animation" />
-</div>
-
----
-
 ## 团队信息
 
 <div align="center">
